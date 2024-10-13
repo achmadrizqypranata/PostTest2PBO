@@ -3,7 +3,7 @@ Post Test 2 Praktikum PBO (Pemrograman Berorientasi Objek) (Achmad Rizqy Pranata
 
 # Dokumentasi Program (Sistem Manajemen Penjualan Mobil) - (Versi Post Test 2)
 
-1. Menerapkan kembali semua ketentuan di Posttest 1
+## 1. Menerapkan kembali semua ketentuan di Posttest 1
 Seperti pada posttest 1, saya telah menerapkan dasar dari OOP seperti kelas, metode, array, percabangan dan static keyword. Di posttest 2 kali ini, konsep tersebut diperluas dengan fitur OOP yang lebih kompleks seperti inheritance, encapsulation, abstraction, dan interface.
 
 2. Inheritance (minimal terdapat 2 subclass)
